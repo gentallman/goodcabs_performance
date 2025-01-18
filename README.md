@@ -53,3 +53,15 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 - Jaipur reports the highest average fare of ₹484 for a 30 km trip, whereas Surat has the lowest at ₹117 for 11 km. Similarly, Vadodara's average fare is comparable to Surat, at ₹119 for 12 km.  
 - **For a one-kilometer ride, Jaipur's fare stands at ₹16, while Surat offers a more affordable rate of ₹11.**
 
+### 3. Average Ratings by City and Passenger Type
+
+<img src="https://github.com/user-attachments/assets/a4a454ae-5a05-4029-ad72-1f58adecf98e" width="85%">
+
+- Kochi, Jaipur, and Mysore stand out with top ratings of 8.98 from both new and returning passengers. In contrast, Surat, Vadodara, and Lucknow fall behind, with ratings dropping to as low as 5.99 for both drivers and passengers.
+
+### 4. Peak and Low Demand Months by City
+
+<img src="https://github.com/user-attachments/assets/28c394eb-7597-45b8-8b98-b9fe46682156" width="60%">
+
+- Jaipur, Lucknow, and Chandigarh recorded the highest trip volumes in February, with May and April also emerging as peak months for other cities. Conversely, June and January saw the lowest trip counts, especially in Jaipur, Kochi, Indore, Vadodara, and Coimbatore.
+- **In summary, February, May, and April are the busiest months, while June and January experience the lowest demand across the cities.**
