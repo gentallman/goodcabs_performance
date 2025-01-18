@@ -17,6 +17,8 @@
 </a>
 </p>
 
+<div align="justify"> 
+
 <h2 align="center">
   Problem Statment
 </h2>
@@ -157,3 +159,5 @@ Read the [Query-6.2 here](https://github.com/gentallman/goodcabs_performance/blo
 1. Top Performers: Surat (43%) and Lucknow (37%) have the highest repeat passenger rates, indicating strong customer loyalty.
 2. Moderate Performers: Indore and Vadodara show good repeat rates, suggesting room for improvement in customer retention.
 3. Low Performers: Kochi, Chandigarh, Jaipur (17%), and Mysore (11%) have lower repeat rates, indicating potential issues with customer satisfaction or service frequency.
+
+</div>
