@@ -100,33 +100,31 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 ### 1. City-Level Fare and Trip Summary Report
 
-![image](https://github.com/user-attachments/assets/68d3b23e-a177-4121-8a04-930dfb369e11)
+<img src="https://github.com/user-attachments/assets/68d3b23e-a177-4121-8a04-930dfb369e11" width="70%">
 
-- Jaipur leads with the highest average fare per trip at ₹483.92, while Indore the lowest fare per trip at ₹179.84. Mysore charges the most per km at ₹15.14 while Surat offers the lowest fare per km at ₹10.66, and. The top three cities—Jaipur, Lucknow, and Kochi—account for 45.1% of trips, with Mysore contributing the least at 3.81%.
+- Jaipur leads with the highest average fare per trip at ₹483.92, while Indore has the lowest fare per trip at ₹179.84. Mysore charges the most per km at ₹15.14, while Surat offers the lowest fare per km at ₹10.66. The top three cities—Jaipur, Lucknow, and Kochi—account for 45.1% of trips, with Mysore contributing the least at 3.81%.
 
 ### 2. Monthly City-Level Trips Target Performance Report
 
-![image](https://github.com/user-attachments/assets/7c35acba-9831-4569-8c58-6e5387885f75)
+<img src="https://github.com/user-attachments/assets/7c35acba-9831-4569-8c58-6e5387885f75" width="70%">
 
 - Mysore leads above-target performance with +33% in February, followed by Jaipur in February and Kochi in March. Below-target cities include Vadodara with a -28% gap in June, Lucknow at -16% in January, and Indore at -16% in June.
 
 ### 3. City-Level Repeat Passenger Trip Frequency Report
 
-![image](https://github.com/user-attachments/assets/0a76d529-00a1-4538-ad1c-0d0c61249bba)
-  
-- Visakhapatnam, Jaipur, and Mysore showcase strong passenger loyalty, with around 50% repeat trip frequency at 2 trips, followed by a sharp decline as trip counts increase.
-In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a rising trend, with repeat trip frequency growing steadily up to 6 trips, reflecting unique customer behavior.
-This analysis highlights cities with high loyalty and frequent usage patterns.
+<img src="https://github.com/user-attachments/assets/0a76d529-00a1-4538-ad1c-0d0c61249bba" width="70%">
+
+- Visakhapatnam, Jaipur, and Mysore showcase strong passenger loyalty, with around 50% repeat trip frequency at 2 trips, followed by a sharp decline as trip counts increase. In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a rising trend, with repeat trip frequency growing steadily up to 6 trips, reflecting unique customer behavior. This analysis highlights cities with high loyalty and frequent usage patterns.
 
 ### 4. Identify Cities with Highest and Lowest Total New Passengers
 
-![image](https://github.com/user-attachments/assets/45415e6f-a360-4ac3-82b2-523871cc322b)
+<img src="https://github.com/user-attachments/assets/45415e6f-a360-4ac3-82b2-523871cc322b" width="48%">
 
-- The report identifies cities with the highest and lowest total new passengers. Jaipur leads with 45,800 new passengers, followed by Kochi and Chandigarh in the top three. In contrast, Surat (11,600), Vadodara and Coimbatore have the lowest numbers, highlighting areas for potential growth.
+- The report identifies cities with the highest and lowest total new passengers. Jaipur leads with 45,800 new passengers, followed by Kochi and Chandigarh in the top three. In contrast, Surat (11,600), Vadodara, and Coimbatore have the lowest numbers, highlighting areas for potential growth.
 
 ### 5. Identify Month with Highest Revenue for Each City
 
-![image](https://github.com/user-attachments/assets/c448fcf0-30be-4e55-a6bc-6f04e019a2f4)
+<img src="https://github.com/user-attachments/assets/c448fcf0-30be-4e55-a6bc-6f04e019a2f4" width="68%">
 
 - The report identifies the month with the highest revenue for each city in millions. Jaipur leads with ₹7.75 million in February (21%). Kochi, Chandigarh, and Lucknow also peak in February, while Visakhapatnam, Surat, Vadodara, and Coimbatore see their highest revenues in April. Indore, Mysore, and Kochi achieve their top revenues in May.
 
@@ -134,16 +132,14 @@ This analysis highlights cities with high loyalty and frequent usage patterns.
 
 #### 6.1 Monthly Repeat Passenger Rate
 
-![image](https://github.com/user-attachments/assets/47b17dc9-ef2e-4fc7-9c92-dc6124736992)
+<img src="https://github.com/user-attachments/assets/47b17dc9-ef2e-4fc7-9c92-dc6124736992" width="70%">
 
-- Surat and Lucknow lead with the highest repeat passenger rates, showing strong customer loyalty. 
-Indore, Kochi, and Visakhapatnam demonstrate consistent increases in repeat passenger rates, indicating growing retention. 
-Mysore and Jaipur have lower repeat passenger rates, suggesting lower customer retention. Repeat rates generally rise from April to May, with May showing the highest rates across several cities, pointing to potential seasonal trends. 
+- Surat and Lucknow lead with the highest repeat passenger rates, showing strong customer loyalty. Indore, Kochi, and Visakhapatnam demonstrate consistent increases in repeat passenger rates, indicating growing retention. Mysore and Jaipur have lower repeat passenger rates, suggesting lower customer retention. Repeat rates generally rise from April to May, with May showing the highest rates across several cities, pointing to potential seasonal trends.
 
 #### 6.2 City Wide Repeat Passenger Rate
 
-![image](https://github.com/user-attachments/assets/ad260a1d-d95f-4e55-a8b3-dc9afd2d4454)
+<img src="https://github.com/user-attachments/assets/ad260a1d-d95f-4e55-a8b3-dc9afd2d4454" width="70%">
 
 1. Top Performers: Surat (43%) and Lucknow (37%) have the highest repeat passenger rates, indicating strong customer loyalty.
-2. Moderate Performers: IIndore and Vadodara show good repeat rates, suggesting room for improvement in customer retention.
-3. Low Performers: Kochi, Chandigarh Jaipur (17%), and Mysore (11%) have lower repeat rates, indicating potential issues with customer satisfaction or service frequency.
+2. Moderate Performers: Indore and Vadodara show good repeat rates, suggesting room for improvement in customer retention.
+3. Low Performers: Kochi, Chandigarh, Jaipur (17%), and Mysore (11%) have lower repeat rates, indicating potential issues with customer satisfaction or service frequency.
