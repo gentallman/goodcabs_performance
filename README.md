@@ -86,3 +86,10 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 - Business cities typically met their target for new passengers but faced challenges in achieving trip and rating goals.
 - In contrast, tourism cities like Jaipur, Kochi, and Mysore excelled in meeting trip and rating targets but fell short in attracting new passengers. Chandigarh and Visakhapatnam, however, missed all targets across trips, new passengers, and ratings, revealing a significant performance gap.
+
+### 8. Highest and Lowest Repeat Passenger Rate (RPR%) by City and Month
+
+<img src="https://github.com/user-attachments/assets/3006b0c9-8cfc-4392-844a-1b163b2840a7" width="80%">
+
+- The Repeat Passenger Rate (RPR%) steadily increased from January, peaking in May, with a slight dip in June. Visakhapatnam, however, was an exception, showing a sharp rise in April followed by a decline.  
+- Surat and Lucknow recorded the highest RPR at 42.63% and 37.12%, respectively, while Jaipur and Mysore had the lowest RPR at 17.43% and 11.23%, respectively.
