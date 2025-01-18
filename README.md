@@ -100,11 +100,15 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 ### 1. City-Level Fare and Trip Summary Report
 
+Read the [Query-1 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B1.sql).
+
 <img src="https://github.com/user-attachments/assets/68d3b23e-a177-4121-8a04-930dfb369e11" width="70%">
 
 - Jaipur leads with the highest average fare per trip at ₹483.92, while Indore has the lowest fare per trip at ₹179.84. Mysore charges the most per km at ₹15.14, while Surat offers the lowest fare per km at ₹10.66. The top three cities—Jaipur, Lucknow, and Kochi—account for 45.1% of trips, with Mysore contributing the least at 3.81%.
 
 ### 2. Monthly City-Level Trips Target Performance Report
+
+Read the [Query-2 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B2.sql).
 
 <img src="https://github.com/user-attachments/assets/7c35acba-9831-4569-8c58-6e5387885f75" width="70%">
 
@@ -112,17 +116,23 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 ### 3. City-Level Repeat Passenger Trip Frequency Report
 
+Read the [Query-3 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B3.sql).
+
 <img src="https://github.com/user-attachments/assets/0a76d529-00a1-4538-ad1c-0d0c61249bba" width="70%">
 
 - Visakhapatnam, Jaipur, and Mysore showcase strong passenger loyalty, with around 50% repeat trip frequency at 2 trips, followed by a sharp decline as trip counts increase. In contrast, Lucknow, Coimbatore, Vadodara, and Surat display a rising trend, with repeat trip frequency growing steadily up to 6 trips, reflecting unique customer behavior. This analysis highlights cities with high loyalty and frequent usage patterns.
 
 ### 4. Identify Cities with Highest and Lowest Total New Passengers
 
+Read the [Query-4 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B4.sql).
+
 <img src="https://github.com/user-attachments/assets/45415e6f-a360-4ac3-82b2-523871cc322b" width="48%">
 
 - The report identifies cities with the highest and lowest total new passengers. Jaipur leads with 45,800 new passengers, followed by Kochi and Chandigarh in the top three. In contrast, Surat (11,600), Vadodara, and Coimbatore have the lowest numbers, highlighting areas for potential growth.
 
 ### 5. Identify Month with Highest Revenue for Each City
+
+Read the [Query-5 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B5.sql).
 
 <img src="https://github.com/user-attachments/assets/c448fcf0-30be-4e55-a6bc-6f04e019a2f4" width="68%">
 
@@ -132,11 +142,15 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 #### 6.1 Monthly Repeat Passenger Rate
 
+Read the [Query-6.1 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B6.1.sql).
+
 <img src="https://github.com/user-attachments/assets/47b17dc9-ef2e-4fc7-9c92-dc6124736992" width="70%">
 
 - Surat and Lucknow lead with the highest repeat passenger rates, showing strong customer loyalty. Indore, Kochi, and Visakhapatnam demonstrate consistent increases in repeat passenger rates, indicating growing retention. Mysore and Jaipur have lower repeat passenger rates, suggesting lower customer retention. Repeat rates generally rise from April to May, with May showing the highest rates across several cities, pointing to potential seasonal trends.
 
 #### 6.2 City Wide Repeat Passenger Rate
+
+Read the [Query-6.2 here](https://github.com/gentallman/goodcabs_performance/blob/master/Ad-Hoc%20Requests/B6.2.sql).
 
 <img src="https://github.com/user-attachments/assets/ad260a1d-d95f-4e55-a8b3-dc9afd2d4454" width="70%">
 
