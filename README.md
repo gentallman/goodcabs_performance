@@ -80,3 +80,9 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 - In Visakhapatnam, Jaipur, and Mysore, repeat passengers primarily take 2 trips, accounting for around 50%, with a significant drop in frequency beyond that.
 - On the other hand, Lucknow, Coimbatore, Vadodara, and Surat exhibit a growing trend, with repeat trip frequency steadily rising and peaking at 6 trips, highlighting contrasting patterns in travel behavior.
 
+### 7. Monthly Target Achievement Analysis for Key Metrics
+
+<img src="https://github.com/user-attachments/assets/eaea3f8c-38b0-4985-9154-e22275d9f300" width="80%" height="115%">
+
+- Business cities typically met their target for new passengers but faced challenges in achieving trip and rating goals.
+- In contrast, tourism cities like Jaipur, Kochi, and Mysore excelled in meeting trip and rating targets but fell short in attracting new passengers. Chandigarh and Visakhapatnam, however, missed all targets across trips, new passengers, and ratings, revealing a significant performance gap.
