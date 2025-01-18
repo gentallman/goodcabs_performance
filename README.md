@@ -6,11 +6,10 @@
 
 <h4 align="center">  
   Operational Insights for GoodCabs Growth 2024  
-</h4>  
-
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/373ea531-3328-4fb4-898e-e1436e68b774" width="270">  
 </p>
+</h4>  
 
 <p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNWJiOWEyMTAtNWE5OS00OGIwLTlhNGEtZjRmZDY4MWI3MWM0IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
@@ -18,7 +17,9 @@
 </a>
 </p>
 
-### Purpose  
+<h2 align="center">
+  Problem Statment
+</h2>
 
 The purpose of this project is to provide actionable insights that drive GoodCabs' strategic goals for 2024. By leveraging data analytics, the aim is to:  
 
@@ -28,3 +29,27 @@ The purpose of this project is to provide actionable insights that drive GoodCab
 4. **Support Strategic Decision-Making**: Equip the Chief of Operations with data-driven insights to guide growth initiatives and achieve organizational objectives.  
 
 This work empowers GoodCabs to expand its impact while maintaining its commitment to supporting local drivers and delivering exceptional service.
+
+<h2 align="center">
+  Model View
+</h2>
+
+![image](https://github.com/user-attachments/assets/f4fc218a-2f1c-4ae4-9799-7220bf4df7b0)
+
+<h2 align="center">
+  Primary Analysis
+</h2>
+
+### 1. Top and Bottom Performing Cities
+
+<img src="https://github.com/user-attachments/assets/03d1903d-4f30-43bc-8ce9-80ebb9c16084" width="80%">
+
+- Jaipur, Lucknow, and Surat lead as the cities with the highest trip counts, while Visakhapatnam, Coimbatore, and Mysore rank at the lower end of the spectrum.
+
+### 2. Average Fare per Trip by City
+
+<img src="https://github.com/user-attachments/assets/79e0335e-824c-4742-b5ab-e61d5c2e9606" width="50%">
+
+- Jaipur reports the highest average fare of ₹484 for a 30 km trip, whereas Surat has the lowest at ₹117 for 11 km. Similarly, Vadodara's average fare is comparable to Surat, at ₹119 for 12 km.  
+- **For a one-kilometer ride, Jaipur's fare stands at ₹16, while Surat offers a more affordable rate of ₹11.**
+
