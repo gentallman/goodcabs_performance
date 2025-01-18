@@ -61,7 +61,22 @@ This work empowers GoodCabs to expand its impact while maintaining its commitmen
 
 ### 4. Peak and Low Demand Months by City
 
-<img src="https://github.com/user-attachments/assets/28c394eb-7597-45b8-8b98-b9fe46682156" width="60%">
+<img src="https://github.com/user-attachments/assets/28c394eb-7597-45b8-8b98-b9fe46682156" width="55%">
 
 - Jaipur, Lucknow, and Chandigarh recorded the highest trip volumes in February, with May and April also emerging as peak months for other cities. Conversely, June and January saw the lowest trip counts, especially in Jaipur, Kochi, Indore, Vadodara, and Coimbatore.
 - **In summary, February, May, and April are the busiest months, while June and January experience the lowest demand across the cities.**
+
+### 5. Weekend vs. Weekday Trip Demand by City
+
+<img src="https://github.com/user-attachments/assets/4f5f0966-e3d5-4941-827d-5bf3e36b58b0" width="80%">
+
+- Weekdays were more active in Lucknow, Surat, and Jaipur, while Mysore, Coimbatore, and Visakhapatnam recorded fewer trips.
+- On weekends, demand peaked in Jaipur, Kochi, and Surat, whereas Mysore, Coimbatore, and Visakhapatnam trailed behind. This highlights a distinct preference for weekdays in some cities and weekends in others.
+
+### 6. Repeat Passenger Frequency & City Contribution Analysis
+
+<img src="https://github.com/user-attachments/assets/57852faa-f4aa-441a-8172-dcda468f22b9" width ="75%">
+
+- In Visakhapatnam, Jaipur, and Mysore, repeat passengers primarily take 2 trips, accounting for around 50%, with a significant drop in frequency beyond that.
+- On the other hand, Lucknow, Coimbatore, Vadodara, and Surat exhibit a growing trend, with repeat trip frequency steadily rising and peaking at 6 trips, highlighting contrasting patterns in travel behavior.
+
